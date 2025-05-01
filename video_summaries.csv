@@ -1,0 +1,19 @@
+Video Title,Summary
+CS50 Cybersecurity - Lecture 2 - Securing Systems,"1. Encryption is a key solution to securing systems, including Wi-Fi networks, to protect data and prevent eavesdropping.
+2. HTTP, a common protocol for web communication, is vulnerable to eavesdropping and man-in-the-middle attacks due to lack of encryption.
+3. Packet sniffing is a threat that allows attackers to intercept and view unencrypted data packets, highlighting the importance of encryption to protect data during transmission."
+CS50 Cybersecurity - Lecture 0 - Securing Accounts,"1. The lecture focuses on the importance of securing accounts in the digital world, emphasizing the concepts of authentication and authorization to ensure that only the right individuals have access to specific systems or information.
+2. Passwords play a crucial role in authentication, and it is essential to have strong, unique passwords that are not easily guessable to protect against threats like dictionary attacks and brute force attacks.
+3. The lecture demonstrates how a simple four-digit password can have 10,000 possible combinations, highlighting the vulnerability of such passwords and the ease with which they can be cracked using basic programming techniques, underscoring the importance of using more secure and complex passwords."
+CS50 Cybersecurity - Lecture 1 - Securing Data,"1. The importance of securing data, particularly passwords, on servers or apps to prevent unauthorized access and credential stuffing attacks.
+2. The concept of hashing as a technique to convert passwords into hash values for storage in databases, making it harder for adversaries to access plaintext passwords.
+3. The implementation of hashing in password databases to store hash values instead of plaintext passwords, creating a layer of security while still allowing for authentication by comparing hash values during login processes."
+CS50 Cybersecurity - Lecture 4 - Preserving Privacy,"1. The lecture focuses on preserving privacy in cybersecurity, considering the information shared between points A and B and the technologies underlying software and applications.
+2. The web browsing history is discussed as a feature that can be useful for quick access to information but also a concern for privacy as it can be accessed by others with physical access to the device.
+3. Servers log detailed information about users, including IP addresses, time of access, requested files, referrer URLs, and user agents, which can be used for diagnostic, auditing, and advertising purposes, highlighting the importance of exerting control over shared information through HTTP headers."
+CS50 Cybersecurity - Lecture 3 - Securing Software,"1. The lecture focuses on securing software, specifically in the context of HTML and web pages.
+2. The potential threat of phishing attacks is discussed, where adversaries can manipulate HTML code to mislead users into clicking on links that lead to fake websites.
+3. By using HTML attributes and altering the visible text of links, adversaries can create convincing fake websites that trick users into entering sensitive information, such as usernames and passwords."
+CS50 Cybersecurity - Introduction,"1. The course will teach how to secure accounts, data, systems, and software against current threats and how to anticipate future threats, emphasizing the importance of recognizing cybersecurity as a trade-off with usability.
+2. The focus will be on prevention and detection of cyber threats, with an emphasis on using tools like artificial intelligence for monitoring and auditing to detect potential adversaries' behavior.
+3. The course will cover high-level and low-level examples of threats, providing a foundation in computer principles to understand and deduce how new threats may work, even for non-programmers or non-computer experts."
